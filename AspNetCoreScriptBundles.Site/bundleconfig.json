@@ -1,0 +1,13 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/js/example-bundle.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery.js",
+      "wwwroot/js/example.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    }
+  }
+]
